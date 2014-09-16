@@ -1,4 +1,0 @@
-MassiveDataAnalysis
-===================
-
-Assignment 1
