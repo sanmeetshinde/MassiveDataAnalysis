@@ -4,7 +4,7 @@ MassiveDataAnalysis
 1. MTA Traffic Analysis
   
   Contains a .vt file developed on the software Vistrails (http://vistrails.org/index.php/Main_Page)
-  The released by MTA (http://web.mta.info/developers/fare.html) are analysed using Vistrails
+  The data sets released by MTA (http://web.mta.info/developers/fare.html) are analysed using Vistrails
   
 2. Hadoop
   
